@@ -1,4 +1,8 @@
-# 览沃 ROS 驱动程序（简洁版）（ [livox_ros_driver English README](https://github.com/Livox-SDK/livox_ros_driver/) ）（ [livox_ros_driver Chinese README](https://github.com/Livox-SDK/livox_ros_driver/) ）
+# 览沃 ROS 驱动程序（简洁版）
+[livox_ros_driver English README](https://github.com/Livox-SDK/livox_ros_driver/blob/master/README_EN.md)
+
+[览沃ROS驱动程序中文说明](https://github.com/Livox-SDK/livox_ros_driver/blob/master/README_CN.md)
+
 1. 运行览沃 ROS 驱动程序之前，必须安装 ROS 和 Livox-SDK。
 2. 构建览沃 ROS 驱动程序
 
