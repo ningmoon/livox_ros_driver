@@ -12,11 +12,12 @@
    `source ./devel/setup.sh`
 
 4. 加载览沃 ROS 驱动
-   ```bash
-roslaunch livox_ros_driver livox_lidar_rviz.launch bd_list:="0TFDG3B006H2Z11&1HDDG8M00100191"
-```
+   
+   `roslaunch livox_ros_driver livox_lidar_rviz.launch bd_list:="0TFDG3B006H2Z11&1HDDG8M00100191"`
+
 
 ==============================================================分割线=======================================
+
 
 # 览沃 ROS 驱动程序（ [livox_ros_driver English README](https://github.com/Livox-SDK/livox_ros_driver/) ）
 
